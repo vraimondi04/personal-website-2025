@@ -1,0 +1,32 @@
+{
+  "row1": [
+    "/images/concert-photo.jpg",
+    "/images/gliderport.jpg",
+    "/images/la-jolla-shores.jpg",
+    "/images/milwaukee-art-museum.jpg",
+    "/images/mngo-cafe.jpg",
+    "/images/norway-selfie.jpg",
+    "/images/rotterdam-market.jpg",
+    "/images/toronto-selfie.jpg"
+  ],
+  "row2": [
+    "/images/mngo-cafe.jpg",
+    "/images/norway-selfie.jpg",
+    "/images/rotterdam-market.jpg",
+    "/images/toronto-selfie.jpg",
+    "/images/concert-photo.jpg",
+    "/images/gliderport.jpg",
+    "/images/la-jolla-shores.jpg",
+    "/images/milwaukee-art-museum.jpg"
+  ],
+  "row3": [
+    "/images/la-jolla-shores.jpg",
+    "/images/milwaukee-art-museum.jpg",
+    "/images/mngo-cafe.jpg",
+    "/images/toronto-selfie.jpg",
+    "/images/concert-photo.jpg",
+    "/images/gliderport.jpg",
+    "/images/norway-selfie.jpg",
+    "/images/rotterdam-market.jpg"
+  ]
+}
