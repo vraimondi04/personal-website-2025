@@ -43,13 +43,13 @@ TickerTrack.displayName = "TickerTrack"
 const TickerImageComponent = memo<{ image: TickerImage }>(({ image }) => (
   <div className="flex-shrink-0 w-[230px] sm:w-[280px] md:w-[330px] h-[28vh] rounded-lg overflow-hidden">
     <Image
-      src={image.url || "/placeholder.svg"}
+      src={image.url || "/globe.svg"}
       alt="Ticker image"
       width={330}
       height={224}
       className="w-full h-full object-cover"
       onError={(e) => {
-        e.currentTarget.src = "/placeholder.svg?height=224&width=330"
+        e.currentTarget.src = "/globe.svg?height=224&width=330"
       }}
       priority={false}
       loading="lazy"
